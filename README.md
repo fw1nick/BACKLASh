@@ -1,4 +1,4 @@
 # BACKLASh
-Bro elAstiCsearch Kibana LogstAsh Suricata
+Bro elAstiCsearch Kibana LogstAsh Suricata Stack for NSM opertations. 
 
-This will help keep configuration files easy and scriptable. 
+This is a work in progress. 
